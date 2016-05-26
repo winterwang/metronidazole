@@ -48,7 +48,12 @@ knit        : slidify::knit2slides
 
 ###### (("Drug-Related Side Effects and Adverse Reactions"[Mesh]) AND "Metronidazole"[Mesh]) <br> OR <br> ( "Metronidazole/adverse effects"[Mesh] OR "Metronidazole/toxicity"[Mesh] ) <br> OR <br>  (("Metronidazole"[Mesh]) AND "Carcinogenicity Tests"[Mesh] )
 
+> - Related literature (published until April. 2016) were reviewed. 
 
+--- 
+
+## Findings 
+1. 
 
 ---
 
@@ -62,8 +67,6 @@ knit        : slidify::knit2slides
 
 # Conclusion
 
----
-## Best 我
 
 
 

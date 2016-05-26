@@ -1,1 +1,4 @@
-This line is from Rstudio
+# H28ooitaslides
+This is a slide preparation for presentation and panel discussion of [Japanese domestic Helicobacter conference in 2016](http://www.c-linkage.co.jp/jshr22/En/E_index.html).
+The panel disscussion is about eradication of _H.pylori_ in Japanese children and teenagers. 
+My topic is about side effects and safety of metronidazole in the usage of triple therapy. 
