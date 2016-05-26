@@ -24,7 +24,7 @@ knit        : slidify::knit2slides
 ---
 ## Background
 > - **Metronidazole** has been broadly prescribed as therapy for $H. pylori$ eradication. 
-> - fda
+> - Proton pump inhibitor(PPI) $+$ Amoxicillin(AMC) $+$ Clarithromycin $=$ **(PAC)** regimen had an significant lower **eradication rate** of $60.5\%$ compared with PPI $+$ AMC $+$ Metronidazole $=$ **PAM** regimen ($98.3\%$) [unpublished data, Mabe _et al._]
 > - fda
 > - fda
 > - fda
