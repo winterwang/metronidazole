@@ -23,7 +23,7 @@ knit        : slidify::knit2slides
 
 ---
 ## Background
-> - **Metronidazole** has been broadly prescribed as therapy for $H. pylori$ in gastritis or ulcer. 
+> - **Metronidazole** has been broadly prescribed as therapy for $H. pylori$ eradication. 
 > - fda
 > - fda
 > - fda
