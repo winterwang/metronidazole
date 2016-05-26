@@ -26,7 +26,7 @@ knit        : slidify::knit2slides
 ## Background
 
 > - **Metronidazole (MTZ)** has been broadly prescribed as therapy for $H. pylori$ eradication. 
-> - Proton pump inhibitor(PPI) $+$ Amoxicillin(AMC) $+$ Clarithromycin $=$ **(PAC)** regimen had an significant lower **eradication rate** of $60.5\%$ compared with PPI $+$ AMC $+$ MTZ $=$ **PAM** regimen $(98.3\%)$ [unpublished data, Mabe _et al._] 
+> - Proton pump inhibitor(PPI) $+$ Amoxicillin(AMC) $+$ Clarithromycin $=$ **(PAC)** regimen had a significant lower **eradication rate** of $60.5\%$ compared with PPI $+$ AMC $+$ MTZ $=$ **PAM** regimen $(98.3\%)$ [unpublished data, Mabe _et al._] 
 > - Resistance rate of clarithromycin in Japanese children is reported to be more than $40\%$.[Kato and Fujimura 2010]
 
 --- 
