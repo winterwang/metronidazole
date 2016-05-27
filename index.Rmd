@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 
 
 
-## Side effcts and safety of Metronidazole 
+## Side effects and safety of Metronidazole 
 パネルディスカッション$-$「若年者除菌と胃がん予防」
 
 #### Chaochen Wang$^1$, Yingsong Lin$^1$, Masumi Okuda$^2$, Shogo Kikuchi$^1$
