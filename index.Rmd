@@ -26,7 +26,7 @@ knit        : slidify::knit2slides
 ## Background
 
 > - **Metronidazole (MNZ)** has been broadly prescribed as therapy for $H. pylori$ eradication. 
-> - Proton pump inhibitor(PPI) $+$ Amoxicillin(AMPC) $+$ Clarithromycin (CLA) $=$ **(PAC)** regimen had a significant lower **eradication rate** of $60.5\%$ compared with PPI $+$ AMC $+$ MNZ $=$ **PAM** regimen $(98.3\%)$ [unpublished data, Mabe _et al._] 
+> - Proton pump inhibitor(PPI) $+$ Amoxicillin(AMPC) $+$ Clarithromycin (CLA) $=$ **(PAC)** regimen had a significant lower **eradication rate** of $60.5\%$ compared with PPI $+$ AMPC $+$ MNZ $=$ **PAM** regimen $(98.3\%)$ [unpublished data, Mabe _et al._] 
 > - Resistance rate of CLA in Japanese children is reported to be more than $40\%$. [[Kato and Fujimura 2010](http://onlinelibrary.wiley.com/doi/10.1111/j.1442-200X.2009.02915.x/abstract)]
 
 --- 
@@ -74,7 +74,7 @@ knit        : slidify::knit2slides
 --- 
 ## Other cancer studies in Humans
 
-> - Data on MNZ carcinotenecity for humans is still not sufficient. 
+> - Data on MNZ carcinogenecity for humans is still not sufficient. 
 
 > - No higher cancer risk in 12,000 users of MNZ. [[Danielson 1982](http://jama.jamanetwork.com/article.aspx?articleid=372448)] $\Longrightarrow$ Only followed for 2.5 years. (A letter to JAMA)
 
@@ -122,8 +122,8 @@ Abbreviations: AMPC, amoxicillin; CLA, clarithromycin; MNZ, metronidazole.
 ---
 ### [In UK (recommended regimens)^1 ]() 
 <div>
-    <div style="width: 10%; float: left; ">  </div>
-    <div style="width: 90%; float: right; "> blabla </div>
+    <div style="width: 14%; float: left; ">  </div>
+    <div style="width: 86%; float: right; "> blabla </div>
 </div>
 
 ---
