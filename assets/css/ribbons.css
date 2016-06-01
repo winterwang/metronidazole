@@ -48,3 +48,15 @@
   -moz-user-select: none;
   user-select: none;
 }
+
+.ninety {
+  font-size: 90%;
+   }
+
+.eightyfive {
+   font-size: 85%;
+   }
+   
+.fifty {
+  font-size: 50%;
+}
