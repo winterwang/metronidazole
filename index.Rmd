@@ -156,7 +156,7 @@ Abbreviations: AMPC, amoxicillin; CLA, clarithromycin; MNZ, metronidazole.
 
 * So far, there is **no convincing evidence** that short-term exposure to metronidazole would increase the risk of any cancer in human. 
 
-* Considering the high resistance rate of clarithromycin in Japanese children, first-line therapy recommendation of PPI+amoxicillin+metronidazole would be acceptable. 
+* Considering the high resistance rate of clarithromycin in Japanese children, first-line therapy of PPI + amoxicillin + metronidazole is recommended. 
 
 
 
