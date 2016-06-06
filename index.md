@@ -1,47 +1,63 @@
 ---
-framework   : deckjs        # {io2012, html5slides, revealjs, dzslides, ...}
-deckjs:
-  theme: swiss
-  transition: horizontal-slide
-  extensions: [goto, hash, menu, navigation, scale, status]
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-widgets     : [mathjax]# {mathjax, quiz, bootstrap}
+title: "Side effects and safety of Metronidazole "
+author: "Chaochen Wang$^1$, Yingsong Lin$^1$, Masumi Okuda$^2$, Shogo Kikuchi$^1$"
+subtitle: 
+job: 1.Aichi Medical University School of Medicine 2. Hyogo College of Medicine
+framework   : io2012       
+#deckjs:
+ # theme: swiss
+  #transition: horizontal-slide
+  #extensions: [goto, hash, menu, navigation, scale, status]
+highlighter : highlight.js  
+widgets     : [mathjax, quiz, bootstrap, interactive]
 hitheme     : solarized_light 
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides  
----
+biglogo: logo.png
+--- .class #id
 
+<style type="text/css">
+body {background:grey transparent;
+}
+A:link {
+ COLOR: #AA0000 /*The color of the link*/
+}
+A:visited {
+ COLOR: #800080 /*The color of the visited link*/
+}
+A:hover {
+ COLOR: #AA0000 /*The color of the mouseover or 'hover' link*/
+}
+BODY { COLOR: #800080 /*The color of all the other text within the body of the page*/
+}
+</style>
 
-
-## Side effects and safety of Metronidazole 
-パネルディスカッション$-$「若年者除菌と胃がん予防」
-
-#### Chaochen Wang$^1$, Yingsong Lin$^1$, Masumi Okuda$^2$, Shogo Kikuchi$^1$
-
-1. Department Public Health, Aichi Medical University School of Medicine
-2. Department of General Medicine and Community Health Science, Hyogo College of Medicine
-
-
----
 ## Background
-
-> - **Metronidazole (MNZ)** has been broadly prescribed as therapy for $H. pylori$ eradication. 
-> - Proton pump inhibitor(PPI) $+$ Amoxicillin(AMPC) $+$ Clarithromycin (CLA) $=$ **(PAC)** regimen had a significant lower **eradication rate** of $60.5\%$ compared with PPI $+$ AMPC $+$ MNZ $=$ **PAM** regimen $(98.3\%)$ [unpublished data, Mabe _et al._] 
-> - Resistance rate of CLA in Japanese children is reported to be more than $40\%$. [[Kato and Fujimura 2010](http://onlinelibrary.wiley.com/doi/10.1111/j.1442-200X.2009.02915.x/abstract)]
-
---- 
-## Carcinogenicity
-
 > MNZ was categorized as **Possibly carcinogenic to human (2B)** 
 
-> <cite>[by International Agency for Research on Cancer, 1987](http://monographs.iarc.fr/ENG/Monographs/suppl7/index.php)</cite>
+> <cite>[by International Agency for Research on Cancer, IARC in 1987](http://monographs.iarc.fr/ENG/Monographs/suppl7/index.php)</cite>
 
---- 
+
+* **Metronidazole (MNZ)** has been broadly prescribed as therapy for $H. pylori$ eradication worldwide. 
+
+* Second line regimen using MNZ is covered under national health insurance in Japan.
+
+* Proton pump inhibitor (PPI) + Amoxicillin (AMPC) + Clarithromycin (CLA), (PAC) regimen had a significant lower **eradication rate** of 60.5$\%$ compared with PPI + AMPC + MNZ, (PAM) regimen (98.3$\%$).^1 
+
+* Resistance rate of CLA in Japanese children is reported to be more than 40$\%$.^2
+
+
+<br>
+<br>
+1: Unpublished data, Mabe et al.; 2: [Kato and Fujimura 2010](http://onlinelibrary.wiley.com/doi/10.1111/j.1442-200X.2009.02915.x/abstract)
+
+
+--- .class #id
 ## Pubmed searching 
 
-> - Related literature (published until April. 2016) were reviewed. 
+* Related literature (published until April. 2016) were reviewed. 
 
-> - Search term:  
+* Search term:  
 (("Drug-Related Side Effects and Adverse Reactions"[Mesh]) AND "Metronidazole"[Mesh]) <br> OR <br> ( "Metronidazole/adverse effects"[Mesh] OR "Metronidazole/toxicity"[Mesh] ) <br> OR <br>  (("Metronidazole"[Mesh]) AND "Carcinogenicity Tests"[Mesh])
 
 
@@ -49,54 +65,65 @@ knit        : slidify::knit2slides
 
 ---
 
-## Carcinogenic Evidences/Genetic damage/Impaired fertility
+## Evidence found 
 
-> - Oral exposure of MNZ has shown carcinogenic activity in mice and rats. 
-    + **Pulmonary** tumorigenesis [[Rustia and Shubik 1972](http://www.ncbi.nlm.nih.gov/pubmed/5058971), [IARC 1977](http://www.inchem.org/documents/iarc/vol13/metronidazole.html), [Cavaliere _et al._ 1983](http://www.ncbi.nlm.nih.gov/pubmed/?term=Cavaliere+1983%2C+metronidazole)]
-    + Malignant **liver cancer** [[Rustia and Shubik 1979](http://www.ncbi.nlm.nih.gov/pubmed/288941)]
-    + Malignant **lymphomas** [[Rustia and Shubik 1972](http://www.ncbi.nlm.nih.gov/pubmed/5058971)]
-    + **Mammary-gland** tumor [[Rustia and Shubik 1979](http://www.ncbi.nlm.nih.gov/pubmed/288941), [Cavaliere _et al._ 1984](http://www.ncbi.nlm.nih.gov/pubmed/?term=Cavaliere+1984%2C+metronidazole)]
-    + **Pituitary-gland** tumor [[Rustia and Shubik 1979](http://www.ncbi.nlm.nih.gov/pubmed/288941)]
-> - At very **high dose levels** (approx. 500 mg/kg/day $\approx$ 33 times the human doses), or with lifetime feeding ofMNZ. Which is unlikely in human usage.
+**Oral exposure of MNZ has shown carcinogenic activity in mice and rats.**
 
-> - Studies in mammals (_in vivo_) revealed no potential to genetic damage.
+                      | Results   |Year      | Authors  |   
+:--------------------:|----------:|---------:|:--------:|
+_Carcinogenic cites:_ |           |          |          |
+**Pulmonary**         |$\uparrow$ | 1972     |[Rustia and Shubik](http://www.ncbi.nlm.nih.gov/pubmed/5058971) |    
+                      |$\uparrow$ | 1977     |[IARC](http://www.inchem.org/documents/iarc/vol13/metronidazole.html) | 
+                      |$\uparrow$ | 1983     |[Cavaliere _et al._](http://www.ncbi.nlm.nih.gov/pubmed/?term=Cavaliere+1983%2C+metronidazole) |
+**Liver**             |$\uparrow$ | 1979     |[Rustia and Shubik](http://www.ncbi.nlm.nih.gov/pubmed/288941)|
+**Lymphomas**         |$\uparrow$ | 1972     |[Rustia and Shubik](http://www.ncbi.nlm.nih.gov/pubmed/5058971)|
+**Mammary-gland**     |$\uparrow$ | 1979     |[Rustia and Shubik](http://www.ncbi.nlm.nih.gov/pubmed/288941)|
+                      |$\uparrow$ | 1984     |[Cavaliere _et al._](http://www.ncbi.nlm.nih.gov/pubmed/?term=Cavaliere+1984%2C+metronidazole) |
+**Pituitary-gland**   |$\uparrow$ | 1979     |[Rustia and Shubik](http://www.ncbi.nlm.nih.gov/pubmed/288941)|
+_Genetic damage_      |$\bigotimes$| 2000    |[Touati _et al_](http://jac.oxfordjournals.org/content/46/6/987.long)
+_Reproductive Orgains <br> & Fertility_  |$\downarrow$| 2013    |[Kumari and Singh](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3914484/)|
 
-> - Fertility studies (in mice) at doses up to 6 times the maximum human dose have reported no evidence of impaired fertility.
+--- .segue bg:black
 
----
-
-# However, <br> not in humans
+# However, not in humans
 
 --- 
-[Beard CM, _et al._ Lack of evidence for cancer due to use of metronidazole. N Engl J Med. 1979;301:519–522.](http://www.nejm.org/doi/full/10.1056/NEJM197909063011003)
-![NEJM](NEJM.png)
-
+[Lack of evidence for cancer due to use of metronidazole. N Engl J Med. 1979;301:519–522.](http://www.nejm.org/doi/full/10.1056/NEJM197909063011003)
+<div class="centered">
+<IMG SRC="NEJM.png" style="width:900px;height:550px">
+</div>
 --- 
 ## Other cancer studies in Humans
 
-> - Data on MNZ carcinogenecity for humans is still not sufficient. 
+* Data on MNZ carcinogenecity for humans is still not sufficient. 
 
-> - No higher cancer risk in 12,000 users of MNZ. [[Danielson 1982](http://jama.jamanetwork.com/article.aspx?articleid=372448)] $\Longrightarrow$ Only followed for 2.5 years. (A letter to JAMA)
+* No increased cancer risk in 12,000 users of MNZ.^1 $\Longrightarrow$ Only followed for 2.5 years. (A letter to JAMA)
 
-> - 5,222 MNZ user/nonuser pairs followed for 12.6 years found no association **(RR 0.98; 95% CI, 0.80$-$1.20)** between short-term exposure toMNZ and cancer in human.[[Falagas _et al._ 1998](http://cid.oxfordjournals.org/content/26/2/384.short)]
+* No association between short-term exposure to MNZ and cancer in human were found in 5,222 MNZ user/nonuser pairs **(RR 0.98; 95% CI, 0.80$-$1.20)**^2
 
-> - Another retrospective study of children ($<$ 5 $y.$, _n_ $=$ 328,846) who had been exposed to MNZ in utero also gave **negative results (RR 0.81; 95% CI, 0.41$-$1.59)** on cancer incidence of all sites.  [[Thapa _et al._ 1998](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291097-0142%2819981001%2983:7%3C1461::AID-CNCR25%3E3.0.CO;2-1/abstract)]
+* Another retrospective study^3 of children ($<$ 5 $y.$, _n_ $=$ 328,846) who had been exposed to MNZ in utero also reported **negative results (RR 0.81; 95% CI, 0.41$-$1.59)** on cancer incidence of all sites. 
 
+<br><br>
 
+1. [Danielson 1982](http://jama.jamanetwork.com/article.aspx?articleid=372448); 2.[Falagas _et al._ 1998](http://cid.oxfordjournals.org/content/26/2/384.short); 3. [Thapa _et al._ 1998](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291097-0142%2819981001%2983:7%3C1461::AID-CNCR25%3E3.0.CO;2-1/abstract)
 
 --- 
 
 ## Other potential (very rare) side effects 
-1. Brain/nerve related: seizures, aseptic meningitis, encephalopathy,  [[Hari _et al._ 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3696306/), [Farmakiotis _et al._ 2016](http://www.nejm.org/doi/full/10.1056/NEJMicm1505174), [Khan _et al._, 2007](http://annals.org/article.aspx?articleid=659104&resultClick=3)] $\Longrightarrow$ Prolonged use ofMNZ. 
-2. Gastrointestinal tract related: nausea, occasionally vomiting, diarrhea. [[(Ohnishi _et al._ 2014)](http://www.sciencedirect.com/science/article/pii/S1383576914000725)] $\Longrightarrow$ Daily dose $\geq$ 2250 mg.
-3. Skin eruption [[Kumar _et al._ 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3830266/)], pancreatitis[[O’Halloran _et al._ 2010](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2939404/)]
-* Drug-drug interaction: 
-    + Potentiate the anticoagulant effect of warfarin.
-    + Avoid alcohol during use of MNZ since ALDH2 inhibition.
+1. Brain/nerve related: seizures^1 , aseptic meningitis^2 , encephalopathy^3 .<br> $\Longrightarrow$ Prolonged use of MNZ. 
+2. Gastrointestinal tract related: nausea, occasionally vomiting, diarrhea.^4 <br> $\Longrightarrow$ Daily dose $\geq$ 2250 mg.
+3. Skin eruption^5 , pancreatitis^6 .
+
+* **Drug-drug interaction:**
+    + $\uparrow$ the effect of warfarin.
+    + $\downarrow$ the function of ALDH2. 
+
+
+<br><br>
+1. [Hari _et al._ 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3696306/); 2. [Farmakiotis _et al._ 2016](http://www.nejm.org/doi/full/10.1056/NEJMicm1505174); 3. [Khan _et al._, 2007](http://annals.org/article.aspx?articleid=659104&resultClick=3);4. [Ohnishi _et al._ 2014](http://www.sciencedirect.com/science/article/pii/S1383576914000725);5. [Kumar _et al._ 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3830266/);6. [O’Halloran _et al._ 2010](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2939404/).
 
 ---
-
-### [In UK (recommended regimens)^1 ]() 
+Recommended regimens in [UK](https://www.evidence.nhs.uk/formulary/bnfc/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/helicobacter-pylori-infection) 
 
    |            |  Age Range ($y.$) |Oral dose (mg per day)<br> with omeprazole (PPI)|   combined with    |
 ---|:----------:|:--------------:|:---------------------------------------:|-------------------:|
@@ -106,29 +133,21 @@ knit        : slidify::knit2slides
    |            |                |     250, 3 times                     |                MNZ |
    |            |$12\sim18$      |  1000, twice                          |                CLA |
    |            |                |      500, 3 times                     |                MNZ |
-   |            |                |                                      |                    |
    |CLA         |  $1\sim12$     |       7.5 mg/kg (max. 500), twice     |      MNZ/AMPC  |
    |            |$12\sim18$      |     500, twice                       |           MNZ/AMPC  |
-   |            |                |                                      |                    |
    |MNZ         |   $1\sim 6$      |      100, twice                      |                CLA |
    |            |                |     100, 3 times                     |                AMPC |         
    |            |  $6\sim 12$      |     200, twice                       |                CLA | 
    |            |                |     200, 3 times                     |                AMPC |
    |            |$12\sim18$     |     400, twice                       |                CLA |
    |            |                |    400, 3 times                     |                AMPC |
-^1 From: [NICE, National Institute for Health and Care Excellence](https://www.evidence.nhs.uk/formulary/bnfc/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/helicobacter-pylori-infection) <br>
 Abbreviations: AMPC, amoxicillin; CLA, clarithromycin; MNZ, metronidazole.
 
 ---
-### [In UK (recommended regimens)^1 ]() 
-<div>
-    <div style="width: 14%; float: left; ">  </div>
-    <div style="width: 86%; float: right; "> blabla </div>
+[Evidence-based guidelines from **ESPGHAN** and **NASPGHAN** for _Helicobacter pylori_ infection in children. J Pediatr Gastroenterol Nutr. 2011;53:230–243.](http://www.ncbi.nlm.nih.gov/pubmed/?term=21558964)
+<div class="centered">
+<IMG SRC="Guideline.png" style="width:850px;height:550px">
 </div>
-
----
-[Koletzko S, _et al._ Evidence-based guidelines from **ESPGHAN** and **NASPGHAN** for _Helicobacter pylori_ infection in children. J Pediatr Gastroenterol Nutr. 2011;53:230–243.](http://www.ncbi.nlm.nih.gov/pubmed/?term=21558964)
-![guideline](Guideline.png)
 
 
 --- 
