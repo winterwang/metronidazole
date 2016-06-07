@@ -33,9 +33,6 @@ BODY { COLOR: #800080 /*The color of all the other text within the body of the p
 </style>
 
 ## Background
-> MNZ was categorized as **Possibly carcinogenic to human (2B)** 
-
-> <cite>[by International Agency for Research on Cancer, IARC in 1987](http://monographs.iarc.fr/ENG/Monographs/suppl7/index.php)</cite>
 
 
 * **Metronidazole (MNZ)** has been broadly prescribed as therapy for $H. pylori$ eradication worldwide. 
@@ -46,8 +43,11 @@ BODY { COLOR: #800080 /*The color of all the other text within the body of the p
 
 * Resistance rate of CLA in Japanese children is reported to be more than 40$\%$.^2
 
-
 <br>
+> MNZ was categorized as **Possibly carcinogenic to human (2B)** 
+
+> <cite>[by International Agency for Research on Cancer, IARC in 1987](http://monographs.iarc.fr/ENG/Monographs/suppl7/index.php)</cite>
+
 <br>
 1: Unpublished data, Mabe et al.; 2: [Kato and Fujimura 2010](http://onlinelibrary.wiley.com/doi/10.1111/j.1442-200X.2009.02915.x/abstract)
 
@@ -81,7 +81,7 @@ _Carcinogenic cites:_ |           |          |          |
                       |$\uparrow$ | 1984     |[Cavaliere _et al._](http://www.ncbi.nlm.nih.gov/pubmed/?term=Cavaliere+1984%2C+metronidazole) |
 **Pituitary-gland**   |$\uparrow$ | 1979     |[Rustia and Shubik](http://www.ncbi.nlm.nih.gov/pubmed/288941)|
 _Genetic damage_      |$\bigotimes$| 2000    |[Touati _et al_](http://jac.oxfordjournals.org/content/46/6/987.long)
-_Reproductive Orgains <br> & Fertility_  |$\downarrow$| 2013    |[Kumari and Singh](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3914484/)|
+_Reproductive Organs <br> & Fertility_  |$\downarrow$| 2013    |[Kumari and Singh](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3914484/)|
 
 --- .segue bg:black
 
@@ -92,7 +92,9 @@ _Reproductive Orgains <br> & Fertility_  |$\downarrow$| 2013    |[Kumari and Sin
 <div class="centered">
 <IMG SRC="NEJM.png" style="width:900px;height:550px">
 </div>
+
 --- 
+
 ## Other cancer studies in Humans
 
 * Data on MNZ carcinogenecity for humans is still not sufficient. 
