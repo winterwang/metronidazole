@@ -135,7 +135,7 @@ _Reproductive Organs <br> & Fertility_  |**$\downarrow$**| 2013    |[**Kumari an
 
 * No association between short-term exposure to MNZ and cancer in human were found in 5,222 MNZ user/nonuser pairs **(RR 0.98; 95% CI, 0.80$-$1.20)**^2
 
-* Another retrospective study^3 of children v($<$ 5 $y.$, _n_ $=$ 328,846)** who had been exposed to MNZ in utero also reported **negative results (RR 0.81; 95% CI, 0.41$-$1.59)** on cancer incidence of all sites. 
+* Another retrospective study^3 of children **($<$ 5 $y.$, _n_ $=$ 328,846)** who had been exposed to MNZ in utero also reported **negative results (RR 0.81; 95% CI, 0.41$-$1.59)** on cancer incidence of all sites. 
 
  **ヒトでの研究から，発がんリスクの上昇は認められていない．**
 
@@ -195,9 +195,9 @@ Abbreviations: AMPC, amoxicillin; CLA, clarithromycin; MNZ, metronidazole.
 
 * Considering the high resistance rate of clarithromycin in Japanese children, first-line therapy of PPI + amoxicillin + metronidazole would be an alternative option.
 
-* これまでの研究報告からみると，短期間の利用は，ヒトでのがん発生リスクを高める証拠はありません．
+* これまでの研究報告からみると，短期間の利用は，ヒトでのがん発生リスクの上昇は認められない．
 
-* 日本の中高生においてクラリスロマイシンの感受性試験を行わない場合は，メトロニダゾールを含む併用療法は一つの選択肢としてなりうるでしょう．
+* 日本の中高生においてクラリスロマイシンの感受性試験を行わない場合は，メトロニダゾールを含む併用療法は一つの選択肢となりうる．
 
 
 
